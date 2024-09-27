@@ -1,0 +1,25 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/BrandInfo",
+    "pages/RecommendPage",
+    "pages/ShopItemPage",
+    "pages/NewProductPage",
+    "pages/HotProductPage",
+    "pages/ShopListPage",
+    "pages/LoginPage",
+    "pages/RegisterPage",
+    "pages/CreateOrderPage",
+    "pages/UserAddressPage",
+    "pages/AddUserAddressPage",
+    "pages/UpdateUserAddressPage",
+    "pages/MyOrderPage",
+    "pages/PayPage",
+    "pages/OrderInfoPage",
+    "pages/UserSheZhiPage",
+    "pages/CouponListPage",
+    "pages/MyFootPage",
+    "pages/MyLoveBrandPage",
+    "pages/MyLoveProducePage"
+  ]
+}

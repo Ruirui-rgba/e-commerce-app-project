@@ -1,0 +1,20 @@
+{
+  "color": [
+    {
+      "name": "color_1",
+      "value": "#ff0000"
+    },
+    {
+      "name": "MainFontColor",
+      "value": "#000000"
+    },
+    {
+      "name": "GrayFontColor",
+      "value": "#d4d4d4"
+    },
+    {
+      "name": "Neutral_Colors_BackgroundColor",
+      "value": "#F4F4F4"
+    }
+  ]
+}

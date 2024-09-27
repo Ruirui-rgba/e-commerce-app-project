@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "MainFontColor",
+      "value": "15"
+    },
+    {
+      "name": "GrayFontColor",
+      "value": "10"
+    },
+    {
+      "name": "TopFontSize",
+      "value": "20"
+    }
+  ]
+}
